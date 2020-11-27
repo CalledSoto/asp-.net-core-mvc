@@ -1,5 +1,5 @@
 # asp-.net-core-mvc
-# This proyect was made by implementing the knowledge of the Angular ASP .NET CORE MVC Course
+# This proyect was made by implementing the knowledge of the ASP .NET CORE MVC Course
 <h1 align="center">Hi 👋, I'm Enmanuel Soto</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
 
